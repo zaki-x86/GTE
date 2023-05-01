@@ -1,0 +1,4 @@
+.vscode
+*.internal
+build/
+ext
